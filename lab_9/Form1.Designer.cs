@@ -87,7 +87,7 @@
             downloadFileDate.Name = "downloadFileDate";
             downloadFileDate.Size = new Size(150, 55);
             downloadFileDate.TabIndex = 12;
-            downloadFileDate.Text = "Завантажити дату з файлу date.txt";
+            downloadFileDate.Text = "Завантажити дату з файлу типа .txt";
             downloadFileDate.UseVisualStyleBackColor = true;
             downloadFileDate.Click += downloadFileDate_Click;
             // 
